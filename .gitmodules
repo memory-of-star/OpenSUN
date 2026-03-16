@@ -1,9 +1,9 @@
 [submodule "OpenSUN-FPGA"]
 	path = OpenSUN-FPGA
-	url = https://gitcode.com/OpenSUN/OpenSUN-FPGA.git
+	url = https://github.com/memory-of-star/OpenSUN-FPGA.git
 [submodule "OpenSUN-OS"]
 	path = OpenSUN-OS
-	url = https://gitcode.com/OpenSUN/OpenSUN-OS.git
-[submodule "OpenSUN_Tools"]
-	path = OpenSUN_Tools
-	url = https://gitcode.com/OpenSUN/OpenSUN_Tools.git
+	url = https://github.com/memory-of-star/OpenSUN-OS.git
+[submodule "OpenSUN-Tools"]
+	path = OpenSUN-Tools
+	url = https://github.com/memory-of-star/OpenSUN-Tools.git
